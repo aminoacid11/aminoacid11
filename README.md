@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Minho's%20Github&fontSize=50" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Minho's%20Github&fontSize=50" />	
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -44,6 +44,10 @@
 		<img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 </div>
-
+<div align=center>
+	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminoacid11&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=aminoacid11&show_icons=true">
+
+![Minho's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=aminoacid11)
+<br>
