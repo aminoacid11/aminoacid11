@@ -38,3 +38,14 @@
 </div>
 <br>
 
+<div align=center>
+  <p> 📞 Contact 📞 </p>
+</div>
+<div align=center>
+	<a href="https://www.linkedin.com/in/minho-joh-9a9010228/">
+		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" />
+	</a>
+	<a href="mailto:mhjoh99@gmail.com">
+		<img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white" />
+	</a>
+</div>
