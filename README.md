@@ -48,6 +48,3 @@
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminoacid11&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=aminoacid11&show_icons=true">
-
-![Minho's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=aminoacid11)
-<br>
