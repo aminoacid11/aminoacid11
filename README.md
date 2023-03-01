@@ -6,7 +6,7 @@
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=jQuery&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
 	<br>
@@ -17,7 +17,7 @@
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
