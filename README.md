@@ -6,7 +6,7 @@
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=jQuery&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
 	<br>
